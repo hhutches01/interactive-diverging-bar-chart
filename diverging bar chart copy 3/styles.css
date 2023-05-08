@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+.axis text {
+    font-size: 12px;
+}
+
+button {
+            display: block;
+            margin: 20px auto;
+        }
